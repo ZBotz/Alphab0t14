@@ -1,29 +1,23 @@
-const donasibot = () => {
-return `DONASI BISA VIA BANK / E-MONEY
+const allpayment = (prefix) => {
+return `PAYMENT BY フィノマヘサ
 
-*🏧 BANK*
-
-1. BRI 
-	ㅁ 8881 0887 4350 47326
-2. BCA 
-	ㅁ 3901 0887 4350 47326
-3. BNI 
-	ㅁ 881 0887 4350 47326
-4. PERMATA
-	ㅁ 852 8887 4350 47326
-	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0858 9578 9545
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ 0858 9578 9545
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0858 9578 9545
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama FI****SA
+*📲 PULSA*
+
+Tidak tersedia
+	
+Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
 	}
 
-exports.donasibot = donasibot
+exports.allpayment = allpayment
  
